@@ -2,7 +2,7 @@
 
 This repository accompanies [*Practical Common Lisp*](http://www.apress.com/9781430242901) by Peter Seibel (Apress, 2011).
 
-![Cover image](9781430242901.jpg)
+[comment]: #cover
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
